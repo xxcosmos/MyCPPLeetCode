@@ -3,6 +3,7 @@
 # Prerequisites
 *.d
 .idea
+.idea/vcs.xml
 CMakeLists.txt
 
 # Compiled Object files
